@@ -1,2 +1,2 @@
 # CRUD-Farmacia
-sistema de gerenciamento de farmácia com spring boot
+Sistema de gerenciamento de farmácia com spring boot
